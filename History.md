@@ -9,11 +9,11 @@
       @SF-Zhou, @yandongxu, @jemmyzheng, @Carrotzpc, @zbinlin, @OneNewLife, @monkindey, @simman,
       @demohi, @xwang1024 and @davidnotes
   * **feature**
-    * warn if some confused configurations exist in config #637
-    * use extend2 instead of extend to support `Array` config value #674
-    * export context base classes on Application instance, make app or framework override context extend more easily #737
+    * warn if some confused configurations exist in config [#637](https://github.com/eggjs/egg/pull/637)
+    * use extend2 instead of extend to support `Array` config value [#674](https://github.com/eggjs/egg/pull/674)
+    * export context base classes on Application instance, make app or framework override context extend more easily [#737](https://github.com/eggjs/egg/pull/737)
   * **fix**
-    * remove unused `jsonp` context delegate to response, please use [jsonp middleware instead](https://eggjs.org/zh-cn/basics/controller.html#jsonp) #739
+    * remove unused `jsonp` context delegate to response, please use [jsonp middleware instead](https://eggjs.org/zh-cn/basics/controller.html#jsonp) [#739](https://github.com/eggjs/egg/pull/739)
 
 ### Commits
 
