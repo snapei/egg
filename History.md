@@ -2,7 +2,7 @@
 
 ## 2017-04-11, Version 1.1.0, @fengmk2
 
-### Notable Change
+### Notable changes
 
   * **document**
     * Lots of documents improve and typo fixes. Thanks @lslxdx, @zhennann, @dotnil, @no7dw, @cuyl, @Andiedie, @kylezhang,
